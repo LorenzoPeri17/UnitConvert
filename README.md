@@ -29,7 +29,7 @@ Temperature
 For those adventuorous, there is also a python interface
 
 ``` python
-from UnitConverter import MagneticField
+from electronunitconverter import MagneticField
 
 B = MagneticField(1e-3, "T")
 

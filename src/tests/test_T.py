@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 
-from UnitConverter import Temperature
+from electronunitconverter import Temperature
 
 from scipy.constants import physical_constants
 

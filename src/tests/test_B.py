@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 
-from UnitConverter import MagneticField
+from electronunitconverter import MagneticField
 
 from scipy.constants import physical_constants
 

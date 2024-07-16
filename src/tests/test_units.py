@@ -1,9 +1,8 @@
 import numpy as np
 
-from UnitConverter import Temperature, Voltage
+from electronunitconverter import Temperature, Voltage
 
 def test_meV_to_GHz():
-
 
     eV_to_GHz = Voltage._Voltage__eV_to_GHz
 

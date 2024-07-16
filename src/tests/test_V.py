@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 
-from UnitConverter import Voltage
+from electronunitconverter import Voltage
 
 from scipy.constants import physical_constants
 

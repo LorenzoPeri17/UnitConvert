@@ -1,10 +1,8 @@
 # UnitConvert
 
-![win](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/Windows.yaml/badge.svg)
-
-![ubu](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/Ubuntu.yaml/badge.svg)
-
-![mac](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/macOS.yaml/badge.svg)
+![win](https://github.com/LorenzoPeri17/electronunitconverter/actions/workflows/Windows.yaml/badge.svg)
+![ubu](https://github.com/LorenzoPeri17/electronunitconverter/actions/workflows/Ubuntu.yaml/badge.svg)
+![mac](https://github.com/LorenzoPeri17/electronunitconverter/actions/workflows/macOS.yaml/badge.svg)
 
 A CLI tool to convert units!
 
@@ -15,7 +13,7 @@ I know how it feels, I have been there too! And I can offer the solution to all 
 To get it, simply
 
 ``` bash
-$ pip install UnitConverter
+$ pip install electronunitconverter
 ```
 
 and then you will be able to type 

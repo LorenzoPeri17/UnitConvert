@@ -1,7 +1,6 @@
-import pytest
 import numpy as np
 
-from UnitConverter import (
+from electronunitconverter import (
     Temperature,
     Voltage,
     MagneticField,

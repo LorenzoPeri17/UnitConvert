@@ -3,7 +3,7 @@ requires = ["setuptools>=65", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "UnitConverter"
+name = "electronunitconverter"
 version="1.0.0"
 authors = [
     {name = "Lorenzo Peri"},
@@ -20,10 +20,10 @@ dependencies = [
 test = ["pytest", "numpy"]
 
 [project.scripts]
-UnitConverter = "UnitConverter.__main__:main"
+UnitConverter = "electronunitconverter.__main__:main"
 
 [project.urls]
-Homepage = "https://https://github.com/LorenzoPeri17/UnitConverter"
+Homepage = "https://github.com/LorenzoPeri17/electronunitconverter"
 
 [tool.pytest.ini_options]
 testpaths = [

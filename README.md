@@ -1,10 +1,10 @@
 # UnitConvert
 
-![win](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/windows.yml/badge.svg)
+![win](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/Windows.yaml/badge.svg)
 
-![ubu](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/ubuntu.yml/badge.svg)
+![ubu](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/Ubuntu.yaml/badge.svg)
 
-![mac](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/macOs.yml/badge.svg)
+![mac](https://github.com/LorenzoPeri17/UnitConverter/actions/workflows/macOS.yaml/badge.svg)
 
 A CLI tool to convert units!
 
